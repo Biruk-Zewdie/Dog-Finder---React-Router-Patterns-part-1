@@ -1,0 +1,17 @@
+.dogInfo-link {
+    list-style: none;
+}
+img{
+    margin-top: 20px;
+} 
+.dogInfo-facts{
+    text-align: left;
+    margin-top: 0;
+}
+.dogInfo-facts{
+    display: inline-block;
+}
+
+h2{
+    margin-top: 0;
+}

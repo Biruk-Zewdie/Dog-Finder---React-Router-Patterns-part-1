@@ -1,0 +1,36 @@
+.snacksList {
+    list-style: none;
+}
+
+nav {
+  background-color: #7D0DC3;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navList{
+  display: inline;
+  margin-right: 20px;
+}
+
+
+a {
+  color: white;
+  background-color: #7D0DC3;
+  font-weight: 900;
+  font-size: larger;
+  text-decoration: none;
+  padding: 8px 12px;
+}
+
+a:hover {
+  color: lightgray;
+}
+.active {
+    background-color: gray;
+}

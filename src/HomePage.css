@@ -1,0 +1,13 @@
+.dog-card{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    padding: 10px;
+
+
+}
+img {
+    width: 400px;
+    height: 450px;
+}
